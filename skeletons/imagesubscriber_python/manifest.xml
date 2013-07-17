@@ -1,0 +1,17 @@
+<package>
+  <description brief="imagesubscriber_python">
+
+     imagesubscriber_python
+
+  </description>
+  <author>System User</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/imagesubscriber_python</url>
+  <depend package="rospy"/>
+  <depend package="opencv2"/>
+  <depend package="dynamic_reconfigure"/>
+
+</package>
+
+

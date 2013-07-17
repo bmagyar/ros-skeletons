@@ -1,0 +1,14 @@
+<stack>
+  <description brief="skeletons">
+
+     skeletons
+
+  </description>
+  <author>Sam Pfeiffer, Bence Magyar</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/skeletons</url>
+  <depend stack="ros" />
+</stack>
+
+
